@@ -1,9 +1,10 @@
   
-# 🔮 PancakeSwap Prediction SmartBot
+# 🔮🚀 PancakeSwap Prediction Bot v1.1
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
-PancakeSwap Prediction Bot using live TradingView AI recomendations. **~70% Win rate**.
+PancakeSwap Prediction Bot using AI recomendations.
+Folked and improved from [this repository](https://github.com/Soracode/pancakeswap-prediction-smartbot).
 
 ## ⭐Please consider giving a **star**.
 
@@ -16,8 +17,8 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/Soracode/pancakeswap-prediction-smartbot`` 
-2. ``cd pancakeswap-prediction-smartbot``
+1. ``git clone https://github.com/M3prime/pancakeswap-prediction-bot`` 
+2. ``cd pancakeswap-prediction-bot``
 3. ``npm i``
 
 ![enter image description here](/img/setup.jpg?raw=true)
@@ -29,7 +30,7 @@ Then run the following commands in terminal:
 
 1. Open the **.env** file with any code/text editor and add your private key like so:
 ```
-PRIVATE_KEY=0xa2hjtjnhjputdavmarh3uqmntxevx6j6faui8cuxcppyqmuekj54btyd
+PRIVATE_KEY=0xa2hjtjnhjputdavmarh3uqmntxevx6j6faui8sorcppyqmuekj54btyd
 ```
 3. Open the **bot.js** file and setup the following variables:
 ```
@@ -64,20 +65,16 @@ A lot of wallets don't provide you the private key, but just the **seed phrase**
  - [x] Show real time profit 
  - [x] Show real time win rate 
  - [x] Daily goal profit 
+ - [x] Improved algorithm v1.1 🔥
+ - [x] AI Driven bot 🔥
+ - [x] Stop Loss
  - [ ] Simplify settings 
  - [ ] Auto collect winnings 
- - [ ] AI Driven bot 
- - [ ] Stop loss 
+
 
 ## 👁️ Disclaimers
-
-🔧**The code is in BETA, so please be aware of the risks that come with it.**
-Don't risk any money you're not willing to lose.
-
-💸**This code, repository or scripts should NOT be construed as investment advice.**
-Any mention of past or projected investment performance is not, and should not be construed as, a recommendation or guarantee of any particular result or benefit. By using this application, you agree to bear all risk of loss of money and waive any claims against the developers of the program or anyone associated with it.
 
 **Please be aware of clones**
 
  👷**Use it at your own risk.** 
- If you are going to bet, please do it with money that you are willing to lose. And please try to bet with a low amount to gradually generate profit. Please note that there's 1% fee. If you want to remove this, contact me (`bananarancia@protonmail.com`).
+ If you are going to bet, please do it with money that you are willing to lose. And please try to bet with a low amount to gradually generate profit.
