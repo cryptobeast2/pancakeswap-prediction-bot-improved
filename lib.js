@@ -54,7 +54,7 @@ const predictionContract = contract.connect(
 )
 const checkBalance = (amount) => {
     w.eth.getBalance(wallet.address).then(function (b) {
-        let balance = Web3.utils.fromWei(b, 'ether')
+        let balance = Web3.utils.fromWei(b, 'ether') 
         if (balance < parseFloat(amount)) {
             console.log("You don't have enough balance:", amount, "BNB", "|", "Actual Balance:", balance, "BNB")
         } else {
