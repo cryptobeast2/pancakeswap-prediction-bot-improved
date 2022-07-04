@@ -1,5 +1,5 @@
   
-# 🔮🚀 PancakeSwap Prediction Bot v1.1
+# 🔮🚀 PancakeSwap Prediction Bot (improved) v2.0
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
