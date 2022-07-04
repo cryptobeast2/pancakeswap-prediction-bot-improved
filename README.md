@@ -17,7 +17,7 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/M3prime/pancakeswap-prediction-bot`` 
+1. ``git clone https://github.com/cryptobeast2/pancakeswap-prediction-bot-improved`` 
 2. ``cd pancakeswap-prediction-bot``
 3. ``npm i``
 
