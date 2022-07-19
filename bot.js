@@ -5,7 +5,7 @@ const { TradingViewScan, SCREENERS_ENUM, EXCHANGES_ENUM, INTERVALS_ENUM } = requ
 
 // Global Config
 const GLOBAL_CONFIG = {
-    BET_AMOUNT: 2, // in USD
+    BET_AMOUNT: 3, // in USD
     DAILY_GOAL: 30, // in USD,
     WAITING_TIME: 265000, // in Miliseconds (4.3 Minutes)
     THRESHOLD: 60 // Minimum % of certainty of signals (50 - 100)
