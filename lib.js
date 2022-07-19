@@ -1,6 +1,6 @@
 const { JsonRpcProvider } = require("@ethersproject/providers")
 const { Wallet } = require("@ethersproject/wallet")
-const { Contract, utils } = require("ethers")
+const { Contract, utils } = require("ethers") 
 const dotenv = require("dotenv")
 const Big = require('big.js')
 const abi = require('./abi.json')
