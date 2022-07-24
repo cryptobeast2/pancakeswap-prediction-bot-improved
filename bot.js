@@ -53,7 +53,7 @@ const getSignals = async () => {
 
     //5 Minute signals
     let resultMed = await new TradingViewScan(
-        SCREENERS_ENUM["crypto"],
+        SCREENERS_ENUM["crypto"], 
         EXCHANGES_ENUM["BINANCE"],
         "BNBUSDT",
         INTERVALS_ENUM["5m"]
